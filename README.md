@@ -14,12 +14,6 @@
 3. [Implémentation](#implémentation)
     - [Structure du code](#structure-du-code)
     - [Classes principales](#classes-principales)
-4. [Utilisation](#utilisation)
-    - [Installation](#installation)
-    - [Lancement](#lancement)
-5. [Résultats](#résultats)
-6. [Améliorations futures](#améliorations-futures)
-7. [Auteurs](#auteurs)
 
 ---
 
@@ -52,12 +46,5 @@ Le code est organisé en plusieurs modules pour gérer les matrices, les conditi
 2. **`BlackScholes` :** Classe abstraite pour les calculs liés aux méthodes numériques.
 3. **`Payoff` :** Définit les conditions terminales pour les options de type `Call` ou `Put`.
 
----
 
-## Utilisation
-
-### Installation
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/nom_utilisateur/projet-black-scholes.git
 
